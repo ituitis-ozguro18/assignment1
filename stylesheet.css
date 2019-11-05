@@ -2,11 +2,14 @@ body
 {
 	background-image: url("1010bg.jpg");
     color: #1ec503;
+    font-family: arial;
 }
 h1
 {
 	font-size: 60px;
+	font-weight: bold;
 	padding-left: 35px;
+	text-shadow: 0px 0px 3px white;
 }
 #navbar ul
 {
@@ -26,11 +29,12 @@ h1
 	text-decoration: none;
 	color: #909090;
 	font-size: 60px;
-	
+	text-shadow: 0px 0px 5px white;
 }
 #navbar a:hover
 {
 	color:white;
+	text-shadow: 0px 0px 5px green;
 }
 #me
 {
@@ -45,4 +49,5 @@ h1
 	text-align: right;
 	padding-right: 15px;
 	font-size: 48px;
+	text-shadow: 0px 0px 1.5px white;
 }
