@@ -1,0 +1,48 @@
+body 
+{
+	background-image: url("1010bg.jpg");
+    color: #1ec503;
+}
+h1
+{
+	font-size: 60px;
+	padding-left: 35px;
+}
+#navbar ul
+{
+    padding: 0;
+    margin:0;
+	list-style-type: none;
+	text-align: left;
+}
+#navbar li
+{
+	display: inline;
+	vertical-align: center;
+	padding: 35px;
+}
+#navbar a
+{
+	text-decoration: none;
+	color: #909090;
+	font-size: 60px;
+	
+}
+#navbar a:hover
+{
+	color:white;
+}
+#me
+{
+	float: left;
+	width: 500px;
+	height: 500px;
+	border-radius: 150px;
+	padding-right: 85px;
+}
+#briefinfo
+{
+	text-align: right;
+	padding-right: 15px;
+	font-size: 48px;
+}
