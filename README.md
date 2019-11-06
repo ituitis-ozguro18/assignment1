@@ -1,2 +1,2 @@
-[GO TO MY HOMEPAGE](index.html)
-This is a fictional developer portfolio for an introductory course.
+This is a fictional developer portfolio for an introductory course.<\br>
+[Here is the homepage](index.html)
