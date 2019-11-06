@@ -51,3 +51,22 @@ h1
 	font-size: 48px;
 	text-shadow: 0px 0px 1.5px white;
 }
+.contactimage
+{
+	height: 55px;
+	border-radius: 15px;
+}
+td.adress:hover
+{
+	background-image: url("1010bg.jpg");
+}
+table,th,td
+{
+	border: 5px solid #1e6503;
+	font-size: 48px;
+	padding: 8px;
+}
+.adress
+{
+	text-align: center;
+}
