@@ -1,3 +1,5 @@
 This is a fictional developer portfolio for an introductory course.
 
-[Here is the homepage](index.html)
+[Homepage](index.html)
+
+[Projects](projects.html)
