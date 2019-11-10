@@ -84,46 +84,46 @@ table,th,td
 #lifeinvader
 {
 	float: left;
-	width: auto;
-	padding-left: 35px;
-	padding-right: 85px;
+	width: 40%;
+	padding-left: 5%;
 }
 #lifeinvaderinfo
 {
-	text-align: center;
-	padding-right: 15px;
+	text-align: right;
+	padding-right: 5%;
+	padding-top: 5%;
 	float: right;
-	font-size: 48px;
-	width: 400px;
+	font-size: 40px;
+	width: 40%;
 }
 #bleeter
 {
 	float: right;
-	width: auto;
-	padding-right: 35px;
-	padding-left: 85px;
+	width: 40%;
+	padding-right: 5%;
 }
 #bleeterinfo
 {
 	float: left;
-	text-align: center;		
-	padding-left: 150px;
-	font-size: 48px;
-	width: 400px;
+	text-align: left;		
+	padding-left: 5%;
+	padding-top: 5%;
+	font-size: 40px;
+	width: 40%;
 }
 #eyefind
 {
 	float: left;
-	width: auto;
-	padding-left: 35px;
-	padding-right: 85px;
+	width: 40%;
+	padding-left: 5%;
 }
 #eyefindinfo
 {
-	text-align: center;
-	padding-right: 15px;
+	text-align: right;
+	padding-right: 5%;
+	padding-top: 5%;
 	float: right;
-	font-size: 48px;
-	width: 400px;
+	font-size: 40px;
+	width: 40%;
 }
 
